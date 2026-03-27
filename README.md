@@ -425,12 +425,6 @@ MIT
 
 ---
 
-## 👨‍💻 Built For
-
-**Velozity Global Solutions** - Technical Hiring Assessment
-**Role**: Full Stack Developer
-**Task**: Real-Time Client Project Dashboard with Role-Based Access & Live Activity Feed
 
 ---
 
-Made with ❤️ for Velozity Global Solutions
